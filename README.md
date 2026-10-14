@@ -1,4 +1,4 @@
-# 💰 Million Dollar Page Clone
+# 💰 Million Dollar Homepage Clone
 
 A modern, lightweight, and self-hosted clone of the famous **The Million Dollar Homepage**. Built with vanilla JavaScript, HTML5 Canvas, and a simple PHP backend, this project allows users to select pixel areas on a grid, upload banner images, set target links, and publish them instantly.
 
